@@ -30,6 +30,9 @@ Repositori ini berisi latihan membuat game **Suwit Jawa** (Semut, Orang, Gajah) 
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
+- jQuery
+- AOS (Animate On Scroll)
 
 ---
 
